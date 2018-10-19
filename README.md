@@ -18,9 +18,9 @@ Your task is to take the website you created in Assignment 1 and turn it into a 
 	2. Blog posts
 	3. Other content pages (e.g. About Us)
 	4. Links that open blog posts
-	5. Validations in the contact us form
+	5. Validations in the contact us form (extra credit)
 	6. Comments (extra credit)
-2. You will also have to create a new page that contains all of the information people fill out when someone submits the contact us page. In short, in addition to all of the validations that you have done for the contact us page, on submit the website should go to the home page, and a link on the footer should lead to a page that displays all of the contact us submissions.
+2. (extra credit) You can also create a new page that contains all of the information people fill out when someone submits the contact us page. In short, in addition to all of the validations that you have done for the contact us page, on submit the website should go to the home page, and a link on the footer should lead to a page that displays all of the contact us submissions.
 
 ## Things to consider
 1. Think about the different React Components that will  be a part of your app. For example, a header and a footer would make great React Components. Check the starter code for suggestions on where to go with this.
